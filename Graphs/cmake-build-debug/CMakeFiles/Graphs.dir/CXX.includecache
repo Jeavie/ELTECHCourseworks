@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeavie/CLionProjects/ELTECHCourseworks/Graphs/main.cpp
+algorithm
+-
+iostream
+-
+iterator
+-
+
